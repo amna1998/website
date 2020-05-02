@@ -1,0 +1,158 @@
+.main{
+    background-color:royalblue;
+    color: white;
+    font-size: 1em;
+    text-align: center;
+    padding: 5px;
+}
+.mainn{
+    display: inline;
+    margin: 0px 0px 0px 0px;
+}
+button{
+    padding: 5px;
+    color: darkgreen;
+    background-color: white;
+    border-color:darkgreen;
+}
+li{
+    display: inline;
+}
+.logo{
+    background-color: lightgray;
+    text-align: center;
+    padding: 10px;
+}
+.but{
+    color: black;
+    border: none;
+}
+.pa{
+    text-align: center;
+    margin-top: 2em;
+}
+.paraa{
+    display: inline;
+}
+.imag{
+    text-align: center;
+    margin-top: 10px;
+}
+.para{
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: left;
+    margin: 20px 300px 70px 300px;
+}
+.xyz{
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.a{
+    display: inline-block;
+    padding: 20px;
+}
+.b{
+    display: inline;
+}
+.heading{
+    text-align: center;
+    margin-top: 2em;
+    font-weight: bold;
+    font-size: 20px;
+}
+.c{
+    display: inline;
+}
+.e{
+    display: inline-block;
+    margin: 15px 20px 15px 90px;
+    background-color: white;
+    height:150px;
+    width: 350px;
+    text-align: center;
+    box-shadow: 5px 5px 5px gray;
+}
+.f{
+    color:royalblue;
+    display: inline;
+    margin: 40px 400px 10px 150px;
+    font-weight: bold;
+    font-size: large;
+}
+.one{
+    background-color: lightgray;
+    color: royalblue;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    margin : 10px 150px;
+}
+.onnee{
+    background-color: lightgray;
+    color: royalblue;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    margin : 10px 150px;
+}
+.event{
+    color: black;
+    margin: 15px 1000px;
+    font-weight: normal;
+    font-size: 12px;
+    width:350px;
+    height:100px;
+    background-color: seashell;
+}
+.gallery{
+    text-align: center;
+    margin-top: 2em;
+}
+.gal{
+    display: inline;
+}
+.saylani{
+       text-align: center;
+       padding-top: 1em;
+}
+.dark{
+    background-color: black;
+    height:300px;
+}
+.d1{
+    color: white;
+    display: inline;
+    margin-left: 500px;
+    font-weight: bold;
+}
+.two{
+    color: gray;
+    margin: 30px 50px 10px 150px;
+}
+.three{
+    color: gray;
+    margin: 30px 50px 10px 150px;
+    word-spacing: 5px;
+    font-size: 13px;
+}
+.four{
+    margin: 15px 40px 10px 1100px;
+}
+.blue{
+    background-color: royalblue;
+    color: white;
+   text-align: center;
+}
+.footer{
+    background-color:steelblue ;
+    color: white;
+    height: 40px;
+}
+.foot{
+    font-size: 14px;
+    margin-left: 230px;
+}
